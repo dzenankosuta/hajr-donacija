@@ -99,10 +99,16 @@ export const DonationInfo = () => {
                       </span>
                     </p>
                     <div className="pt-2 mt-2 border-t border-gray-100">
-                      <p className="flex items-center gap-1 text-xs text-gray-500">
-                        <QrCode className="w-3 h-3" />
-                        Skeniraj QR kod za brzo plaćanje
-                      </p>
+                      <div className="flex items-start gap-2 p-2 bg-primary/5 rounded-md">
+                        <QrCode className="w-4 h-4 text-primary flex-shrink-0 mt-0.5" />
+                        <p className="text-xs text-gray-600 leading-relaxed">
+                          Otvorite aplikaciju Vaše banke, izaberite opciju{" "}
+                          <span className="font-semibold text-secondary">
+                            "Skeniraj i plati"
+                          </span>{" "}
+                          i skenirajte QR kod za brzo i jednostavno plaćanje.
+                        </p>
+                      </div>
                     </div>
                   </div>
                 </div>
