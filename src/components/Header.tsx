@@ -17,10 +17,10 @@ export const Header: React.FC = () => {
             />
             <div className="text-center sm:text-left">
               <p className="text-[10px] sm:text-xs text-secondary/60 tracking-wide font-body uppercase">
-                Mešihat IZ u Srbiji • Muftijstvo Sandžačko
+                Mešihat IZ u Srbiji • Medžlis IZ Sjenica
               </p>
               <h1 className="text-lg sm:text-xl lg:text-2xl font-bold text-primary tracking-wide font-elegant">
-                MEDŽLIS IZ SJENICA
+                DŽEMAT ALIVEROVIĆE
               </h1>
             </div>
           </div>

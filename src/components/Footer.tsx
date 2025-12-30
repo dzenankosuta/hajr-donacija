@@ -12,10 +12,10 @@ export const Footer = () => {
           />
           <div className="text-left">
             <h3 className="text-lg sm:text-xl font-bold text-primary font-elegant">
-              MEDŽLIS IZ SJENICA
+              DŽEMAT ALIVEROVIĆE
             </h3>
             <p className="text-xs text-white/50">
-              Mešihat IZ u Srbiji • Muftijstvo Sandžačko
+              Mešihat IZ u Srbiji • Medžlis IZ Sjenica
             </p>
           </div>
         </div>
