@@ -4,7 +4,7 @@ import { Check } from "lucide-react";
 // KONFIGURACIJA - OVDJE AŽURIRATI BROJ DONACIJA
 // ============================================
 const TOTAL_DONATIONS = 300;
-const FILLED_DONATIONS = 0; // <- PROMIJENI OVAJ BROJ KADA NEKO UPLATI
+const FILLED_DONATIONS = 5; // <- PROMIJENI OVAJ BROJ KADA NEKO UPLATI
 const DONATION_AMOUNT = 100; // EUR
 // ============================================
 
